@@ -1,0 +1,9 @@
+interface:
+  display_name: "豆尼角色锻造台"
+  short_description: "重建和审校可旋转的豆尼·银手 Three.js 角色"
+  icon_small: "./assets/douni-forge.svg"
+  icon_large: "./assets/douni-forge.svg"
+  brand_color: "#FCEE09"
+  default_prompt: "Use $douni-character-forge to refine the Douni Silverhand Three.js character and verify it from multiple angles."
+policy:
+  allow_implicit_invocation: true

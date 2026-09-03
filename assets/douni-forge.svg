@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="豆尼角色锻造台">
+  <rect width="128" height="128" rx="20" fill="#05090a"/>
+  <path d="M22 18h62l22 22v70H22z" fill="#fcee09"/>
+  <path d="M84 18v22h22" fill="#05090a"/>
+  <path d="M42 43c7-10 37-10 44 0l-5 39c-4 16-30 16-34 0z" fill="#0b1113"/>
+  <path d="M38 63h52v11H38z" fill="#00f0ff"/>
+  <path d="M47 89h34l10 20H37z" fill="#be123c"/>
+</svg>
